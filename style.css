@@ -583,13 +583,13 @@ a:hover {
     margin-top: 40px;
     font-family: montserrat;
     font-size: 16px;
+    font-family: Avenir-LT-W01_35-Light1475496;
+    line-height: normal;
+    font-weight: 400;
 }
 
 .bottom_p span {
     margin: 0px 15px;
-    font-family: Avenir-LT-W01_35-Light1475496;
-    line-height: normal;
-    font-weight: 400;
 }
 
 .contact_right {
